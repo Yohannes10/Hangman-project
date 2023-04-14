@@ -1,0 +1,1 @@
+The user can guess words and the number of dashes will give the user a hint onto how many letters the word in question has. The user has 11 attempts and if the user fails to guess the word a message boo will show while the user will be shown the message congrats if they win. After both winning and failing the game the user will be given a chance to play again.
